@@ -7,11 +7,15 @@
 - I’m currently pursuing Masters in Computer Science From Saint Leo university.
 - This is my first semster in Computer science.
 - Courses in first semester: Data Base Systems and Secure Software Design.
-- Background in studies: I did my Under graduation from Sathayabama University in India.  
+- Background in studies: I did my Under graduation from Sathayabama University in India.
+#### Skills
+- Good at C and C++ 
+- Familiar with Python.
+- Embedded C.
  #### Contact information 
 - phone: 8137972839
 - Mail: krishnaprasanth.pi@saintleo.edu
- ### Goal
+ #### Goal
 - To work in the upcoming projects which are helpful to humans in every sectors.
 - My dream companies which i like to work are Tesla, Lockheedmartin or Boeing.
  #### Hobbies
