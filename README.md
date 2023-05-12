@@ -17,7 +17,7 @@
 - Mail: krishnaprasanth.pi@saintleo.edu
  #### Goal
 - To work in the upcoming projects which are helpful to humans in every sectors.
-- My dream companies which i like to work are Tesla, Lockheedmartin or Boeing.
+- My dream companies which i like to work are Tesla, Lockheedmartin and Boeing.
  #### Hobbies
 - Playing Cricket.
 - Reading books.
